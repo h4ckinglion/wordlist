@@ -7,4 +7,4 @@ Wordlists have an arrow for which tool or purpose they were developed, but they 
 Feel free to analyze.
 
 ## Index
-1. [wordlist-br-2023-12-23.txt](https://github.com/h4ckinglion/wordlist/blob/main/wordlist-br-2020-12-23) : from user MrP4p3r, intented for aircrack-ng
+1. [wordlist-br-2023-12-23.txt](https://github.com/h4ckinglion/wordlist/blob/main/wordlist-br-2020-12-23) : from user MrP4p3r, intented for pentest
