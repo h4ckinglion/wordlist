@@ -9,9 +9,16 @@ Feel free to analyze.
 ## Index
 1. [wordlist-br-2023-12-23.txt](https://github.com/h4ckinglion/wordlist/blob/main/wordlist-br-2020-12-23) : from user MrP4p3r, intented for pentest
 
-| Qtd | 7.777 | 5.666 | 1.996 | 1.400 | 928 | 677 | 43 | 146.645 |
-| --- | | --- | | --- | | --- | | --- | | --- | | --- | | --- | | --- |
-| Description | Words | Cities | Most popular male names | Most popular female names | Music Bands | Soccer Teams |  Most used passwords | Numbers |
+| Qtd | Description |
+| --- | --- |
+| 7.777 | Words |
+| 5.666 | Cities |
+| 1.996 | Most popular male names |
+| 1.400 | Most popular female names |
+| 928 | Music Bands |
+| 677 | Soccer Temas |
+| 43 | Most used passwords |
+| 146.645 | Numbers |
 | Total | 165.029 |
 
 2. 
